@@ -4,9 +4,7 @@ role: Research Associate
 avatar_filename: avatar.jpg
 bio: "My research interests include "
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Housing
 social:
   - icon: envelope
     icon_pack: fas
