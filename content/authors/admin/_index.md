@@ -5,6 +5,8 @@ avatar_filename: avatar.jpg
 bio: "My research interests include "
 interests:
   - Housing
+  - housing affordability
+  - multilevel modelling
 social:
   - icon: envelope
     icon_pack: fas
