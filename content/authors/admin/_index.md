@@ -27,19 +27,19 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/bin-chi-093062165/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Glasgow
+    url: ""
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Centre for Advanced Spatial Analysis
+      institution: University College London (UCL)
+      year: 2021
+    - course: MSc in Land Resources Management
+      institution: China University of Geosciences
+      year: 2015
+    - course: BSc in Land Resources Management
+      institution: China University of Geosciences
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 superuser: true
 last_name: Bighetti
 highlight_name: true
