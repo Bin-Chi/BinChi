@@ -35,10 +35,10 @@ education:
       institution: University College London (UCL)
       year: 2021
     - course: MSc in Land Resources Management
-      institution: China University of Geosciences
+      institution: China University of Geosciences (CUG)
       year: 2015
     - course: BSc in Land Resources Management
-      institution: China University of Geosciences
+      institution: China University of Geosciences (CUG)
       year: 2012
 superuser: true
 last_name: Bighetti
