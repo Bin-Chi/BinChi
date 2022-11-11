@@ -1,6 +1,6 @@
 ---
 widget: "Learning hub: self-learning collection"
-widget_id: Learning hub
+widget_id: "self-learning "
 headless: true
 weight: 10
 title: Learning hub
