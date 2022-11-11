@@ -1,6 +1,6 @@
 ---
 widget: "Learning hub: self-learning collection"
-widget_id: my-widget-123
+widget_id: Learning hub
 headless: true
 weight: 10
 active: true
