@@ -1,7 +1,7 @@
 ---
 title: Bin Chi
 role: Research Associate
-avatar_filename: avatar.jpg
+avatar_filename: binchi_esrc.jpg
 bio: "My research interests include "
 interests:
   - Housing
